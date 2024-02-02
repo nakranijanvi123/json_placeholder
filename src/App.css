@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+button{
+  padding:5px 20px;
+  margin: 10px;
+}
+table > tr >td{
+  border: 2px solid black;
+}
